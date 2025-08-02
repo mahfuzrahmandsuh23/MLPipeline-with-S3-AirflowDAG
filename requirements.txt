@@ -1,0 +1,21 @@
+# Core data processing
+pandas==1.5.3
+numpy==1.24.4
+
+# Machine learning
+scikit-learn==1.2.2
+joblib==1.2.0
+
+# AWS S3 integration
+boto3==1.28.3
+
+# Apache Airflow (core + Amazon + .env + Postgres)
+apache-airflow==2.9.1
+apache-airflow-providers-amazon==8.12.0
+apache-airflow-providers-postgres==5.10.0
+
+# Environment variable loader
+python-dotenv==1.0.1
+
+# Optional: Visualisation or Debugging (if needed later)
+matplotlib==3.7.1
